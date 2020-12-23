@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bcf4b13-3a9e-41da-a208-9d2b15c7205d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8-lorem-ipsum/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/8-lorem-ipsum/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-color-generator/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/9-color-generator/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-color-generator/setup/src/SingleColor.js" beforeDir="false" afterPath="$PROJECT_DIR$/9-color-generator/setup/src/SingleColor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,9 @@
       <workItem from="1608109000897" duration="162000" />
       <workItem from="1608410723840" duration="2846000" />
       <workItem from="1608540738913" duration="205000" />
-      <workItem from="1608669464774" duration="8220000" />
+      <workItem from="1608669464774" duration="8822000" />
+      <workItem from="1608712989877" duration="402000" />
+      <workItem from="1608757244993" duration="5123000" />
     </task>
     <servers />
   </component>
