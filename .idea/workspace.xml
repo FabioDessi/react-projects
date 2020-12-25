@@ -21,9 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0bcf4b13-3a9e-41da-a208-9d2b15c7205d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-grocery-bud/setup/src/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/10-grocery-bud/setup/src/Alert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-grocery-bud/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/10-grocery-bud/setup/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-grocery-bud/setup/src/List.js" beforeDir="false" afterPath="$PROJECT_DIR$/10-grocery-bud/setup/src/List.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-navbar/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-navbar/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-navbar/setup/src/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-navbar/setup/src/Navbar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,9 @@
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1li4fh6GMIZsr9c69grLxycURnc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,7 +69,8 @@
       <workItem from="1608068140965" duration="5000" />
       <workItem from="1608068152133" duration="2442000" />
       <workItem from="1608800477848" duration="152000" />
-      <workItem from="1608845505619" duration="8318000" />
+      <workItem from="1608845505619" duration="11883000" />
+      <workItem from="1608915357746" duration="3764000" />
     </task>
     <servers />
   </component>
