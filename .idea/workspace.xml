@@ -21,8 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0bcf4b13-3a9e-41da-a208-9d2b15c7205d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-navbar/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-navbar/setup/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-navbar/setup/src/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-navbar/setup/src/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-sidebar-modal/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-sidebar-modal/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-sidebar-modal/setup/src/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-sidebar-modal/setup/src/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-sidebar-modal/setup/src/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-sidebar-modal/setup/src/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-sidebar-modal/setup/src/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-sidebar-modal/setup/src/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-sidebar-modal/setup/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-sidebar-modal/setup/src/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-sidebar-modal/setup/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-sidebar-modal/setup/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +58,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +80,7 @@
       <workItem from="1608068152133" duration="2442000" />
       <workItem from="1608800477848" duration="152000" />
       <workItem from="1608845505619" duration="11883000" />
-      <workItem from="1608915357746" duration="3764000" />
+      <workItem from="1608915357746" duration="8760000" />
     </task>
     <servers />
   </component>
@@ -102,10 +112,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2617" y="196" width="516" height="662" key="RollbackChangesDialog/1920.0.1920.1080/0.27.1920.994@1920.0.1920.1080" timestamp="1608067886684" />
-    <state x="2369" y="159" width="1022" height="737" key="SettingsEditor" timestamp="1608067743120">
+    <state x="2376" y="151" width="1022" height="763" key="SettingsEditor" timestamp="1608937567659">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2369" y="159" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.994@1920.0.1920.1080" timestamp="1608067743120" />
+    <state x="2376" y="151" width="1022" height="763" key="SettingsEditor/1920.0.1920.1080/0.27.1920.994@1920.0.1920.1080" timestamp="1608937567659" />
     <state x="2475" y="260" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1608772110717">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
