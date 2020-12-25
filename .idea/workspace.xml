@@ -20,17 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bcf4b13-3a9e-41da-a208-9d2b15c7205d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2-tours/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/2-tours/setup/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-tours/setup/src/Tour.js" beforeDir="false" afterPath="$PROJECT_DIR$/2-tours/setup/src/Tour.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-tours/setup/src/Tours.js" beforeDir="false" afterPath="$PROJECT_DIR$/2-tours/setup/src/Tours.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-grocery-bud/setup/src/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/10-grocery-bud/setup/src/Alert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-grocery-bud/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/10-grocery-bud/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-grocery-bud/setup/src/List.js" beforeDir="false" afterPath="$PROJECT_DIR$/10-grocery-bud/setup/src/List.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="refs/heads/master" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1li4fh6GMIZsr9c69grLxycURnc" />
   <component name="ProjectViewState">
@@ -56,6 +66,8 @@
       <workItem from="1608066683328" duration="1446000" />
       <workItem from="1608068140965" duration="5000" />
       <workItem from="1608068152133" duration="2442000" />
+      <workItem from="1608800477848" duration="152000" />
+      <workItem from="1608845505619" duration="8318000" />
     </task>
     <servers />
   </component>
@@ -74,7 +86,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;4-accordion done&quot;&#10;&#10;This reverts commit b5060818" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;4-accordion done&quot;&#10;&#10;This reverts commit b5060818" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2424" y="49" width="902" height="956" key="CommitChangelistDialog2" timestamp="1608771818713">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2424" y="49" width="902" height="956" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.994@1920.0.1920.1080" timestamp="1608771818713" />
     <state x="2617" y="196" width="516" height="662" key="RollbackChangesDialog" timestamp="1608067886684">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -83,5 +103,17 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2369" y="159" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.994@1920.0.1920.1080" timestamp="1608067743120" />
+    <state x="2475" y="260" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1608772110717">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="260" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.994@1920.0.1920.1080" timestamp="1608772110717" />
+    <state x="2574" y="256" width="611" height="536" key="find.popup" timestamp="1608857050051">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2574" y="256" width="611" height="536" key="find.popup/1920.0.1920.1080/0.27.1920.994@1920.0.1920.1080" timestamp="1608857050051" />
+    <state x="2543" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1608856212726">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="244" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.994@1920.0.1920.1080" timestamp="1608856212726" />
   </component>
 </project>
