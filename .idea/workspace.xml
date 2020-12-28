@@ -21,12 +21,16 @@
   <component name="ChangeListManager">
     <list default="true" id="0bcf4b13-3a9e-41da-a208-9d2b15c7205d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-cart/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/14-cart/setup/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-cart/setup/src/CartContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/14-cart/setup/src/CartContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-cart/setup/src/CartItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/14-cart/setup/src/CartItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-cart/setup/src/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/14-cart/setup/src/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-cart/setup/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/14-cart/setup/src/context.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-cart/setup/src/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/14-cart/setup/src/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-cocktails/setup/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-cocktails/setup/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-cocktails/setup/src/components/Cocktail.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-cocktails/setup/src/components/Cocktail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-cocktails/setup/src/components/CocktailList.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-cocktails/setup/src/components/CocktailList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-cocktails/setup/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-cocktails/setup/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-cocktails/setup/src/components/SearchForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-cocktails/setup/src/components/SearchForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-cocktails/setup/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-cocktails/setup/src/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-cocktails/setup/src/pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-cocktails/setup/src/pages/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-cocktails/setup/src/pages/Error.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-cocktails/setup/src/pages/Error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-cocktails/setup/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-cocktails/setup/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-cocktails/setup/src/pages/SingleCocktail.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-cocktails/setup/src/pages/SingleCocktail.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +86,7 @@
       <workItem from="1608845505619" duration="11883000" />
       <workItem from="1608915357746" duration="9991000" />
       <workItem from="1609010383668" duration="11368000" />
-      <workItem from="1609100057035" duration="6299000" />
+      <workItem from="1609100057035" duration="16397000" />
     </task>
     <servers />
   </component>
